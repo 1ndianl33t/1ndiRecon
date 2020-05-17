@@ -1,7 +1,7 @@
 # 1ndiRecon
 All-in-one Bug bounty Recon
 
-## Comming soon
+## Coming soon
 
 
 # Contact
